@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Boris Villagran</h1>
 <h3 align="center">I am passionate about data science, in this space you can find projects of this nature, if you have any questions, do not hesitate to contact me</h3>
 
-<h3 align="left">Connect with me:</h3>
+
 <p align="left">
 </p>
 
